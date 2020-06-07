@@ -1,0 +1,23 @@
+﻿get_stored_tracking
+greeting →
+	create_new_user
+	write_tracking
+show_menu →
+	menu_select →
+		add_exercises →
+			input_exercise_details →
+				handle_variant
+		list_user_exercises
+		adjust_exercise_order
+		deactivate_exercises →
+			display_active
+		reactivate_an_exercise →
+			display_inactive
+		log_a_workout → 
+			select_exercises →
+				set_exercises →
+					log_exercises →
+						first_time_exercise
+						show_workout_summary
+						log_exercise
+		view_a_previous_workout

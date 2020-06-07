@@ -1,0 +1,33 @@
+﻿GoFish
+__init__
+run_game
+	game_setup →
+		display_welcome_screen
+		select_player ->
+			returning_user ->
+				select_name
+	check-tracking
+	display_menu →
+		start_play→
+			new_game →
+				show_record
+				show_who_first
+				check_for_pairs
+				play_game →
+					update_screen ->
+						check_for_clicks
+						draw_board
+						draw_hands
+						draw_tables
+					take_turn →
+						draw_board_text
+						check_game_over →
+							game_over
+						choose_card_human ->
+							reset_card_state
+						choose_card_computer
+						resolve_turn
+						handle_go_fish
+ 		view_game_stats
+		view_player_stats
+
