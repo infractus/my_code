@@ -1,0 +1,1417 @@
+{
+    "Dan": {
+        "body_weight": {
+            "2020-05-06": 164.2,
+            "2020-05-01": 167.2,
+            "2020-05-04": 165.6,
+            "2020-05-08": 165.6,
+            "2020-05-11": 167.4,
+            "2020-05-13": 165.4,
+            "2020-05-15": 165.8,
+            "2020-05-18": 165.2,
+            "2020-05-20": 164.4,
+            "2020-05-22": 163.8,
+            "2020-05-25": 164.2,
+            "2020-05-27": 164.0,
+            "2020-05-29": 163.2,
+            "2020-06-01": 165.8,
+            "2020-06-03": 166.2,
+            "2020-06-05": 165.6
+        },
+        "body_fat": {
+            "2020-05-06": 15.1,
+            "2020-05-01": 15.6,
+            "2020-05-04": 15.4,
+            "2020-05-08": 15.4,
+            "2020-05-11": 15.8,
+            "2020-05-13": 15.4,
+            "2020-05-15": 15.3,
+            "2020-05-18": 15.2,
+            "2020-05-20": 15.1,
+            "2020-05-22": 14.8,
+            "2020-05-25": 14.9,
+            "2020-05-27": 14.8,
+            "2020-05-29": 14.6,
+            "2020-06-01": 15.2,
+            "2020-06-03": 15.4,
+            "2020-06-05": 15.2
+        },
+        "exercises": {
+            "Pushups": {
+                "active": true,
+                "variant": "Diamond Pushups",
+                "did_last_session": false,
+                "parent": true,
+                "exercise_type": "Body Weight",
+                "sessions_done": [
+                    3,
+                    5,
+                    7,
+                    9,
+                    11,
+                    13,
+                    15
+                ],
+                "workouts": {
+                    "3": {
+                        "weight_lifted": 166.4,
+                        "amount": 10.0,
+                        "volume": 1664.0
+                    },
+                    "5": {
+                        "weight_lifted": 168.2,
+                        "amount": 10.0,
+                        "volume": 1682.0
+                    },
+                    "7": {
+                        "weight_lifted": 168.4,
+                        "amount": 10.0,
+                        "volume": 1684.0,
+                        "notes": ""
+                    },
+                    "9": {
+                        "weight_lifted": 166.2,
+                        "amount": 10.0,
+                        "volume": 1662.0,
+                        "notes": ""
+                    },
+                    "11": {
+                        "weight_lifted": 166.6,
+                        "amount": 10.0,
+                        "volume": 1666.0,
+                        "notes": ""
+                    },
+                    "13": {
+                        "weight_lifted": 165.0,
+                        "amount": 10.0,
+                        "volume": 1650.0,
+                        "notes": ""
+                    },
+                    "15": {
+                        "weight_lifted": 168.2,
+                        "amount": 10.0,
+                        "volume": 1682.0,
+                        "notes": ""
+                    }
+                }
+            },
+            "Diamond Pushups": {
+                "active": true,
+                "variant": "Pushups",
+                "did_last_session": true,
+                "parent": false,
+                "exercise_type": "Body Weight",
+                "sessions_done": [
+                    1,
+                    2,
+                    4,
+                    6,
+                    8,
+                    10,
+                    12,
+                    14,
+                    16
+                ],
+                "workouts": {
+                    "1": {
+                        "weight_lifted": 167.2,
+                        "amount": 10.0,
+                        "volume": 1672.0
+                    },
+                    "2": {
+                        "weight_lifted": 165.6,
+                        "amount": 10.0,
+                        "volume": 1656.0
+                    },
+                    "4": {
+                        "weight_lifted": 167.6,
+                        "amount": 10.0,
+                        "volume": 1676.0
+                    },
+                    "6": {
+                        "weight_lifted": 166.2,
+                        "amount": 10.0,
+                        "volume": 1662.0
+                    },
+                    "8": {
+                        "weight_lifted": 166.8,
+                        "amount": 10.0,
+                        "volume": 1668.0,
+                        "notes": ""
+                    },
+                    "10": {
+                        "weight_lifted": 165.2,
+                        "amount": 10.0,
+                        "volume": 1652.0,
+                        "notes": ""
+                    },
+                    "12": {
+                        "weight_lifted": 166.4,
+                        "amount": 10.0,
+                        "volume": 1664.0,
+                        "notes": ""
+                    },
+                    "14": {
+                        "weight_lifted": 168.2,
+                        "amount": 10.0,
+                        "volume": 1682.0,
+                        "notes": ""
+                    },
+                    "16": {
+                        "weight_lifted": 167.6,
+                        "amount": 10.0,
+                        "volume": 1676.0,
+                        "notes": ""
+                    }
+                }
+            },
+            "Pullups": {
+                "active": true,
+                "variant": "Chinups",
+                "did_last_session": true,
+                "parent": true,
+                "exercise_type": "Body Weight",
+                "sessions_done": [
+                    2,
+                    4,
+                    6,
+                    8,
+                    10,
+                    12,
+                    14,
+                    16
+                ],
+                "workouts": {
+                    "2": {
+                        "weight_lifted": 165.6,
+                        "amount": 3.75,
+                        "volume": 621.0
+                    },
+                    "4": {
+                        "weight_lifted": 167.6,
+                        "amount": 4.0,
+                        "volume": 670.4
+                    },
+                    "6": {
+                        "weight_lifted": 166.2,
+                        "amount": 3.0,
+                        "volume": 498.59999999999997
+                    },
+                    "8": {
+                        "weight_lifted": 166.8,
+                        "amount": 4.0,
+                        "volume": 667.2,
+                        "notes": ""
+                    },
+                    "10": {
+                        "weight_lifted": 165.2,
+                        "amount": 5.0,
+                        "volume": 826.0,
+                        "notes": ""
+                    },
+                    "12": {
+                        "weight_lifted": 166.4,
+                        "amount": 4.0,
+                        "volume": 665.6,
+                        "notes": "started doing chinups on accident, didn't do negative on last rep :("
+                    },
+                    "14": {
+                        "weight_lifted": 168.2,
+                        "amount": 4.5,
+                        "volume": 756.9,
+                        "notes": ""
+                    },
+                    "16": {
+                        "weight_lifted": 167.6,
+                        "amount": 4.0,
+                        "volume": 670.4,
+                        "notes": ""
+                    }
+                }
+            },
+            "Chinups": {
+                "active": true,
+                "variant": "Pullups",
+                "did_last_session": false,
+                "parent": false,
+                "exercise_type": "Body Weight",
+                "sessions_done": [
+                    1,
+                    3,
+                    5,
+                    7,
+                    9,
+                    11,
+                    13,
+                    15
+                ],
+                "workouts": {
+                    "1": {
+                        "weight_lifted": 167.2,
+                        "amount": 4.0,
+                        "volume": 668.8
+                    },
+                    "3": {
+                        "weight_lifted": 166.4,
+                        "amount": 4.0,
+                        "volume": 665.6
+                    },
+                    "5": {
+                        "weight_lifted": 168.2,
+                        "amount": 4.0,
+                        "volume": 672.8
+                    },
+                    "7": {
+                        "weight_lifted": 168.4,
+                        "amount": 3.0,
+                        "volume": 505.20000000000005,
+                        "notes": "Chest a little sore from dips injury on 5/11"
+                    },
+                    "9": {
+                        "weight_lifted": 166.2,
+                        "amount": 5.0,
+                        "volume": 831.0,
+                        "notes": "Realized I'm probably kipping a bit - try to keep legs/hips from jerking"
+                    },
+                    "11": {
+                        "weight_lifted": 166.6,
+                        "amount": 5.0,
+                        "volume": 833.0,
+                        "notes": ""
+                    },
+                    "13": {
+                        "weight_lifted": 165.0,
+                        "amount": 5.0,
+                        "volume": 825.0,
+                        "notes": ""
+                    },
+                    "15": {
+                        "weight_lifted": 168.8,
+                        "amount": 4.0,
+                        "volume": 675.2,
+                        "notes": "difficult this time"
+                    }
+                }
+            },
+            "Curl And Press": {
+                "active": true,
+                "variant": null,
+                "exercise_type": "Weights",
+                "sessions_done": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16
+                ],
+                "workouts": {
+                    "1": {
+                        "weight_lifted": 30.0,
+                        "amount": 5.0,
+                        "volume": 150.0
+                    },
+                    "2": {
+                        "weight_lifted": 30.0,
+                        "amount": 6.0,
+                        "volume": 180.0
+                    },
+                    "3": {
+                        "weight_lifted": 30.0,
+                        "amount": 7.0,
+                        "volume": 210.0
+                    },
+                    "4": {
+                        "weight_lifted": 30.0,
+                        "amount": 7.0,
+                        "volume": 210.0
+                    },
+                    "5": {
+                        "weight_lifted": 30.0,
+                        "amount": 7.0,
+                        "volume": 210.0
+                    },
+                    "6": {
+                        "weight_lifted": 30.0,
+                        "amount": 3.0,
+                        "volume": 90.0
+                    },
+                    "7": {
+                        "weight_lifted": 30.0,
+                        "amount": 5.0,
+                        "volume": 150.0,
+                        "notes": ""
+                    },
+                    "8": {
+                        "weight_lifted": 30.0,
+                        "amount": 5.0,
+                        "volume": 150.0,
+                        "notes": ""
+                    },
+                    "9": {
+                        "weight_lifted": 30.0,
+                        "amount": 5.0,
+                        "volume": 150.0,
+                        "notes": ""
+                    },
+                    "10": {
+                        "weight_lifted": 30.0,
+                        "amount": 5.0,
+                        "volume": 150.0,
+                        "notes": ""
+                    },
+                    "11": {
+                        "weight_lifted": 30.0,
+                        "amount": 7.0,
+                        "volume": 210.0,
+                        "notes": ""
+                    },
+                    "12": {
+                        "weight_lifted": 30.0,
+                        "amount": 6.0,
+                        "volume": 180.0,
+                        "notes": ""
+                    },
+                    "13": {
+                        "weight_lifted": 30.0,
+                        "amount": 7.0,
+                        "volume": 210.0,
+                        "notes": ""
+                    },
+                    "14": {
+                        "weight_lifted": 30.0,
+                        "amount": 8.0,
+                        "volume": 240.0,
+                        "notes": ""
+                    },
+                    "15": {
+                        "weight_lifted": 30.0,
+                        "amount": 7.0,
+                        "volume": 210.0,
+                        "notes": ""
+                    },
+                    "16": {
+                        "weight_lifted": 30.0,
+                        "amount": 8.0,
+                        "volume": 240.0,
+                        "notes": ""
+                    }
+                }
+            },
+            "Goblet Squat": {
+                "active": true,
+                "variant": null,
+                "exercise_type": "Weights",
+                "sessions_done": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16
+                ],
+                "workouts": {
+                    "1": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0
+                    },
+                    "2": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0
+                    },
+                    "3": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0
+                    },
+                    "4": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0
+                    },
+                    "5": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0
+                    },
+                    "6": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0
+                    },
+                    "7": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": ""
+                    },
+                    "8": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": ""
+                    },
+                    "9": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": ""
+                    },
+                    "10": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": ""
+                    },
+                    "11": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": "ring on"
+                    },
+                    "12": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": "ring off"
+                    },
+                    "13": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": ""
+                    },
+                    "14": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": "ring off"
+                    },
+                    "15": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": "ring on - left knee started hurting, watch out for this"
+                    },
+                    "16": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": "ring off"
+                    }
+                }
+            },
+            "Dumbell Pullover": {
+                "active": true,
+                "variant": null,
+                "exercise_type": "Weights",
+                "sessions_done": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16
+                ],
+                "workouts": {
+                    "1": {
+                        "weight_lifted": 45.0,
+                        "amount": 10.0,
+                        "volume": 450.0
+                    },
+                    "2": {
+                        "weight_lifted": 50.0,
+                        "amount": 8.0,
+                        "volume": 400.0
+                    },
+                    "3": {
+                        "weight_lifted": 50.0,
+                        "amount": 8.0,
+                        "volume": 400.0
+                    },
+                    "4": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0
+                    },
+                    "5": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0
+                    },
+                    "6": {
+                        "weight_lifted": 50.0,
+                        "amount": 0.0,
+                        "volume": 0.0
+                    },
+                    "7": {
+                        "weight_lifted": 50.0,
+                        "amount": 0.0,
+                        "volume": 0.0,
+                        "notes": "Could not do due to injury from dips on 5/11"
+                    },
+                    "8": {
+                        "weight_lifted": 50.0,
+                        "amount": 0.0,
+                        "volume": 0.0,
+                        "notes": "still feeling injury from 5/11"
+                    },
+                    "9": {
+                        "weight_lifted": 50.0,
+                        "amount": 0.0,
+                        "volume": 0.0,
+                        "notes": "still feeling injury from 5/11"
+                    },
+                    "10": {
+                        "weight_lifted": 20.0,
+                        "amount": 10.0,
+                        "volume": 200.0,
+                        "notes": "did lower due to injury from 5/11"
+                    },
+                    "11": {
+                        "weight_lifted": 25.0,
+                        "amount": 10.0,
+                        "volume": 250.0,
+                        "notes": ""
+                    },
+                    "12": {
+                        "weight_lifted": 30.0,
+                        "amount": 10.0,
+                        "volume": 300.0,
+                        "notes": ""
+                    },
+                    "13": {
+                        "weight_lifted": 35.0,
+                        "amount": 10.0,
+                        "volume": 350.0,
+                        "notes": "switch to 40"
+                    },
+                    "14": {
+                        "weight_lifted": 40.0,
+                        "amount": 10.0,
+                        "volume": 400.0,
+                        "notes": ""
+                    },
+                    "15": {
+                        "weight_lifted": 45.0,
+                        "amount": 10.0,
+                        "volume": 450.0,
+                        "notes": "was hard, maybe keep til streak"
+                    },
+                    "16": {
+                        "weight_lifted": 45.0,
+                        "amount": 10.0,
+                        "volume": 450.0,
+                        "notes": ""
+                    }
+                }
+            },
+            "Farmers Carry": {
+                "active": true,
+                "variant": null,
+                "exercise_type": "Weights",
+                "sessions_done": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16
+                ],
+                "workouts": {
+                    "1": {
+                        "weight_lifted": 52.5,
+                        "amount": 60.0,
+                        "volume": 3150.0
+                    },
+                    "2": {
+                        "weight_lifted": 52.5,
+                        "amount": 60.0,
+                        "volume": 3150.0
+                    },
+                    "3": {
+                        "weight_lifted": 52.5,
+                        "amount": 69.0,
+                        "volume": 3622.5
+                    },
+                    "4": {
+                        "weight_lifted": 52.5,
+                        "amount": 60.0,
+                        "volume": 3150.0
+                    },
+                    "5": {
+                        "weight_lifted": 52.5,
+                        "amount": 70.0,
+                        "volume": 3675.0
+                    },
+                    "6": {
+                        "weight_lifted": 52.5,
+                        "amount": 75.0,
+                        "volume": 3937.5
+                    },
+                    "7": {
+                        "weight_lifted": 52.5,
+                        "amount": 75.0,
+                        "volume": 3937.5,
+                        "notes": ""
+                    },
+                    "8": {
+                        "weight_lifted": 52.5,
+                        "amount": 75.0,
+                        "volume": 3937.5,
+                        "notes": ""
+                    },
+                    "9": {
+                        "weight_lifted": 52.5,
+                        "amount": 75.0,
+                        "volume": 3937.5,
+                        "notes": ""
+                    },
+                    "10": {
+                        "weight_lifted": 52.5,
+                        "amount": 70.0,
+                        "volume": 3675.0,
+                        "notes": ""
+                    },
+                    "11": {
+                        "weight_lifted": 52.5,
+                        "amount": 75.0,
+                        "volume": 3937.5,
+                        "notes": ""
+                    },
+                    "12": {
+                        "weight_lifted": 52.5,
+                        "amount": 75.0,
+                        "volume": 3937.5,
+                        "notes": ""
+                    },
+                    "13": {
+                        "weight_lifted": 52.5,
+                        "amount": 83.0,
+                        "volume": 4357.5,
+                        "notes": ""
+                    },
+                    "14": {
+                        "weight_lifted": 52.5,
+                        "amount": 70.0,
+                        "volume": 3675.0,
+                        "notes": ""
+                    },
+                    "15": {
+                        "weight_lifted": 52.5,
+                        "amount": 80.0,
+                        "volume": 4200.0,
+                        "notes": ""
+                    },
+                    "16": {
+                        "weight_lifted": 52.5,
+                        "amount": 75.0,
+                        "volume": 3937.5,
+                        "notes": ""
+                    }
+                }
+            },
+            "Thrusters": {
+                "active": true,
+                "variant": null,
+                "exercise_type": "Weights",
+                "sessions_done": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16
+                ],
+                "workouts": {
+                    "1": {
+                        "weight_lifted": 30.0,
+                        "amount": 8.0,
+                        "volume": 240.0
+                    },
+                    "2": {
+                        "weight_lifted": 30.0,
+                        "amount": 8.0,
+                        "volume": 240.0
+                    },
+                    "3": {
+                        "weight_lifted": 30.0,
+                        "amount": 8.0,
+                        "volume": 240.0
+                    },
+                    "4": {
+                        "weight_lifted": 30.0,
+                        "amount": 6.0,
+                        "volume": 180.0
+                    },
+                    "5": {
+                        "weight_lifted": 30.0,
+                        "amount": 8.0,
+                        "volume": 240.0
+                    },
+                    "6": {
+                        "weight_lifted": 30.0,
+                        "amount": 4.0,
+                        "volume": 120.0
+                    },
+                    "7": {
+                        "weight_lifted": 30.0,
+                        "amount": 8.0,
+                        "volume": 240.0,
+                        "notes": ""
+                    },
+                    "8": {
+                        "weight_lifted": 30.0,
+                        "amount": 8.0,
+                        "volume": 240.0,
+                        "notes": ""
+                    },
+                    "9": {
+                        "weight_lifted": 30.0,
+                        "amount": 8.0,
+                        "volume": 240.0,
+                        "notes": ""
+                    },
+                    "10": {
+                        "weight_lifted": 30.0,
+                        "amount": 10.0,
+                        "volume": 300.0,
+                        "notes": ""
+                    },
+                    "11": {
+                        "weight_lifted": 30.0,
+                        "amount": 10.0,
+                        "volume": 300.0,
+                        "notes": ""
+                    },
+                    "12": {
+                        "weight_lifted": 30.0,
+                        "amount": 10.0,
+                        "volume": 300.0,
+                        "notes": ""
+                    },
+                    "13": {
+                        "weight_lifted": 35.0,
+                        "amount": 6.0,
+                        "volume": 210.0,
+                        "notes": ""
+                    },
+                    "14": {
+                        "weight_lifted": 35.0,
+                        "amount": 8.0,
+                        "volume": 280.0,
+                        "notes": ""
+                    },
+                    "15": {
+                        "weight_lifted": 35.0,
+                        "amount": 8.0,
+                        "volume": 280.0,
+                        "notes": ""
+                    },
+                    "16": {
+                        "weight_lifted": 35.0,
+                        "amount": 8.0,
+                        "volume": 280.0,
+                        "notes": "last rep was sloppy"
+                    }
+                }
+            },
+            "One Arm Incline Bench Press": {
+                "active": true,
+                "variant": null,
+                "exercise_type": "Weights",
+                "sessions_done": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16
+                ],
+                "workouts": {
+                    "1": {
+                        "weight_lifted": 45.0,
+                        "amount": 2.0,
+                        "volume": 90.0
+                    },
+                    "2": {
+                        "weight_lifted": 40.0,
+                        "amount": 8.0,
+                        "volume": 320.0
+                    },
+                    "3": {
+                        "weight_lifted": 40.0,
+                        "amount": 10.0,
+                        "volume": 400.0
+                    },
+                    "4": {
+                        "weight_lifted": 40.0,
+                        "amount": 8.0,
+                        "volume": 320.0
+                    },
+                    "5": {
+                        "weight_lifted": 40.0,
+                        "amount": 10.0,
+                        "volume": 400.0
+                    },
+                    "6": {
+                        "weight_lifted": 40.0,
+                        "amount": 6.0,
+                        "volume": 240.0
+                    },
+                    "7": {
+                        "weight_lifted": 40.0,
+                        "amount": 10.0,
+                        "volume": 400.0,
+                        "notes": ""
+                    },
+                    "8": {
+                        "weight_lifted": 40.0,
+                        "amount": 10.0,
+                        "volume": 400.0,
+                        "notes": ""
+                    },
+                    "9": {
+                        "weight_lifted": 40.0,
+                        "amount": 10.0,
+                        "volume": 400.0,
+                        "notes": ""
+                    },
+                    "10": {
+                        "weight_lifted": 45.0,
+                        "amount": 6.0,
+                        "volume": 270.0,
+                        "notes": ""
+                    },
+                    "11": {
+                        "weight_lifted": 45.0,
+                        "amount": 7.0,
+                        "volume": 315.0,
+                        "notes": ""
+                    },
+                    "12": {
+                        "weight_lifted": 45.0,
+                        "amount": 5.0,
+                        "volume": 225.0,
+                        "notes": ""
+                    },
+                    "13": {
+                        "weight_lifted": 45.0,
+                        "amount": 4.0,
+                        "volume": 180.0,
+                        "notes": ""
+                    },
+                    "14": {
+                        "weight_lifted": 45.0,
+                        "amount": 5.0,
+                        "volume": 225.0,
+                        "notes": ""
+                    },
+                    "15": {
+                        "weight_lifted": 45.0,
+                        "amount": 7.0,
+                        "volume": 315.0,
+                        "notes": ""
+                    },
+                    "16": {
+                        "weight_lifted": 45.0,
+                        "amount": 2.0,
+                        "volume": 90.0,
+                        "notes": "could barely lift with my left arm"
+                    }
+                }
+            },
+            "Swing": {
+                "active": true,
+                "variant": null,
+                "exercise_type": "Weights",
+                "sessions_done": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16
+                ],
+                "workouts": {
+                    "1": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0
+                    },
+                    "2": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0
+                    },
+                    "3": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0
+                    },
+                    "4": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0
+                    },
+                    "5": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0
+                    },
+                    "6": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0
+                    },
+                    "7": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0,
+                        "notes": ""
+                    },
+                    "8": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0,
+                        "notes": ""
+                    },
+                    "9": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0,
+                        "notes": ""
+                    },
+                    "10": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0,
+                        "notes": ""
+                    },
+                    "11": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0,
+                        "notes": ""
+                    },
+                    "12": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0,
+                        "notes": ""
+                    },
+                    "13": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0,
+                        "notes": ""
+                    },
+                    "14": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0,
+                        "notes": ""
+                    },
+                    "15": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0,
+                        "notes": ""
+                    },
+                    "16": {
+                        "weight_lifted": 50.0,
+                        "amount": 10.0,
+                        "volume": 500.0,
+                        "notes": ""
+                    }
+                }
+            },
+            "Tripod One Arm Row": {
+                "active": true,
+                "variant": null,
+                "exercise_type": "Weights",
+                "sessions_done": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16
+                ],
+                "workouts": {
+                    "1": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0
+                    },
+                    "2": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0
+                    },
+                    "3": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0
+                    },
+                    "4": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0
+                    },
+                    "5": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0
+                    },
+                    "6": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0
+                    },
+                    "7": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": ""
+                    },
+                    "8": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": ""
+                    },
+                    "9": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": ""
+                    },
+                    "10": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": ""
+                    },
+                    "11": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": ""
+                    },
+                    "12": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": ""
+                    },
+                    "13": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": ""
+                    },
+                    "14": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": ""
+                    },
+                    "15": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": ""
+                    },
+                    "16": {
+                        "weight_lifted": 52.5,
+                        "amount": 10.0,
+                        "volume": 525.0,
+                        "notes": ""
+                    }
+                }
+            },
+            "Parallel Dips": {
+                "active": true,
+                "variant": null,
+                "exercise_type": "Body Weight",
+                "sessions_done": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16
+                ],
+                "workouts": {
+                    "1": {
+                        "weight_lifted": 167.2,
+                        "amount": 4.0,
+                        "volume": 668.8
+                    },
+                    "2": {
+                        "weight_lifted": 165.6,
+                        "amount": 5.0,
+                        "volume": 828.0
+                    },
+                    "3": {
+                        "weight_lifted": 168.4,
+                        "amount": 5.0,
+                        "volume": 842.0
+                    },
+                    "4": {
+                        "weight_lifted": 167.6,
+                        "amount": 8.0,
+                        "volume": 1340.8
+                    },
+                    "5": {
+                        "weight_lifted": 169.0,
+                        "amount": 5.0,
+                        "volume": 845.0
+                    },
+                    "6": {
+                        "weight_lifted": 167.6,
+                        "amount": 0.0,
+                        "volume": 0.0
+                    },
+                    "7": {
+                        "weight_lifted": 168.4,
+                        "amount": 0.0,
+                        "volume": 0.0,
+                        "notes": "Couldn't do due to injury 5/11"
+                    },
+                    "8": {
+                        "weight_lifted": 166.8,
+                        "amount": 0.0,
+                        "volume": 0.0,
+                        "notes": "couldn't do due to injury 5/11"
+                    },
+                    "9": {
+                        "weight_lifted": 166.2,
+                        "amount": 0.0,
+                        "volume": 0.0,
+                        "notes": "couldn't do due to injury 5/11"
+                    },
+                    "10": {
+                        "weight_lifted": 165.2,
+                        "amount": 0.0,
+                        "volume": 0.0,
+                        "notes": "couldn't do due to injury 5/11"
+                    },
+                    "11": {
+                        "weight_lifted": 167.2,
+                        "amount": 2.0,
+                        "volume": 334.4,
+                        "notes": "started feeling in my chest again, maybe give it another week"
+                    },
+                    "12": {
+                        "weight_lifted": 166.4,
+                        "amount": 0.0,
+                        "volume": 0.0,
+                        "notes": ""
+                    },
+                    "13": {
+                        "weight_lifted": 165.0,
+                        "amount": 0.0,
+                        "volume": 0.0,
+                        "notes": "couldn't do due to injury 5/11"
+                    },
+                    "14": {
+                        "weight_lifted": 169.8,
+                        "amount": 5.0,
+                        "volume": 849.0,
+                        "notes": ""
+                    },
+                    "15": {
+                        "weight_lifted": 169.6,
+                        "amount": 6.0,
+                        "volume": 1017.5999999999999,
+                        "notes": ""
+                    },
+                    "16": {
+                        "weight_lifted": 167.8,
+                        "amount": 6.0,
+                        "volume": 1006.8,
+                        "notes": ""
+                    }
+                }
+            }
+        },
+        "num_exercises": 13,
+        "workouts": [
+            {
+                "workout_number": 1,
+                "workout_date": "2020-05-01"
+            },
+            {
+                "workout_number": 2,
+                "workout_date": "2020-05-04"
+            },
+            {
+                "workout_number": 3,
+                "workout_date": "2020-05-06",
+                "workout_weight": 166.4
+            },
+            {
+                "workout_number": 4,
+                "workout_date": "2020-05-08",
+                "workout_weight": 167.6
+            },
+            {
+                "workout_number": 5,
+                "workout_date": "2020-05-11",
+                "workout_weight": 168.2
+            },
+            {
+                "workout_number": 6,
+                "workout_date": "2020-05-13",
+                "workout_weight": 166.2
+            },
+            {
+                "workout_number": 7,
+                "workout_date": "2020-05-15",
+                "workout_weight": 168.4
+            },
+            {
+                "workout_number": 8,
+                "workout_date": "2020-05-18",
+                "workout_weight": 166.8
+            },
+            {
+                "workout_number": 9,
+                "workout_date": "2020-05-20",
+                "workout_weight": 166.2
+            },
+            {
+                "workout_number": 10,
+                "workout_date": "2020-05-22",
+                "workout_weight": 165.2
+            },
+            {
+                "workout_number": 11,
+                "workout_date": "2020-05-25",
+                "workout_weight": 166.6
+            },
+            {
+                "workout_number": 12,
+                "workout_date": "2020-05-27",
+                "workout_weight": 166.4,
+                "workout_notes": "was feeling overall weak and tired"
+            },
+            {
+                "workout_number": 13,
+                "workout_date": "2020-05-29",
+                "workout_weight": 165.0,
+                "workout_notes": "start doing dips again?"
+            },
+            {
+                "workout_number": 14,
+                "workout_date": "2020-06-01",
+                "workout_weight": 168.2
+            },
+            {
+                "workout_number": 15,
+                "workout_date": "2020-06-03",
+                "workout_weight": 168.2,
+                "workout_notes": "was a bit tired"
+            },
+            {
+                "workout_number": 16,
+                "workout_date": "2020-06-05",
+                "workout_weight": 167.6
+            }
+        ]
+    }
+}
